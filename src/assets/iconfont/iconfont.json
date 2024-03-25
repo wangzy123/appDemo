@@ -1,0 +1,37 @@
+{
+  "id": "4480524",
+  "name": "my-app",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1842076",
+      "name": "clock",
+      "font_class": "clock",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "5744726",
+      "name": "edit",
+      "font_class": "bianji",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "15838563",
+      "name": "close-bold",
+      "font_class": "close-bold",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "17411810",
+      "name": "Arrow Forward-1",
+      "font_class": "ArrowForward-1",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    }
+  ]
+}
